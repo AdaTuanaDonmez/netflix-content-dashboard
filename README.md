@@ -3,9 +3,6 @@
 
 An interactive data visualization dashboard exploring Netflix content patterns across geography, creators, ratings, and runtime.
 
-## Live Dashboard
-(Coming soon — deployed with Streamlit Cloud)
-
 ## Project Overview
 
 Streaming platforms host thousands of titles, making it difficult to understand patterns in content production, audience targeting, and creator influence.
@@ -17,6 +14,10 @@ This dashboard analyzes Netflix catalog data to reveal insights about:
 - top directors and actors
 - country-level production trends
 - runtime patterns across ratings
+
+## Dashboard Preview
+
+![Dashboard](maindashboard_netflix.png)
 
 ## Dashboard Features
 
