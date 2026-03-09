@@ -5,7 +5,7 @@ An interactive data visualization dashboard exploring Netflix content patterns a
 
 ## Live Dashboard
 
-https://netflix-content-dashboard.streamlit.app
+https://netflix-content-dashboard-9yckkzoaxwsyuzb6ahbvrx.streamlit.app/
 
 ## Project Overview
 
