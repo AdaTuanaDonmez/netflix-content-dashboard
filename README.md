@@ -3,6 +3,10 @@
 
 An interactive data visualization dashboard exploring Netflix content patterns across geography, creators, ratings, and runtime.
 
+## Live Dashboard
+
+https://netflix-content-dashboard.streamlit.app
+
 ## Project Overview
 
 Streaming platforms host thousands of titles, making it difficult to understand patterns in content production, audience targeting, and creator influence.
